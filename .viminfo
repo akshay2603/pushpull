@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1672863647,,"wq!"
+|2,0,1672865097,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,22 @@
 # Registers:
 
 # File marks:
-'0  1  3  ~/pushpull.html
-|4,48,1,3,1672863647,"~/pushpull.html"
+'0  1  6  ~/pushpull.html
+|4,48,1,6,1672865097,"~/pushpull.html"
+'1  1  3  ~/pushpull.html
+|4,49,1,3,1672863647,"~/pushpull.html"
 
 # Jumplist (newest first):
+-'  1  6  ~/pushpull.html
+|4,39,1,6,1672865097,"~/pushpull.html"
 -'  1  3  ~/pushpull.html
 |4,39,1,3,1672863647,"~/pushpull.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/pushpull.html
-	*	1672863645	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
+	*	1672865095	0
+	"	1	6
+	^	1	7
+	.	1	7
+	+	1	7
